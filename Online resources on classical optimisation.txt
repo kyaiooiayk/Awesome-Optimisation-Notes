@@ -1,0 +1,4 @@
+Online resources on classical optimisation
+===========================================
+https://scipy-lectures.org/advanced/mathematical_optimization/
+https://github.com/tirthajyoti/Optimization-Python 
