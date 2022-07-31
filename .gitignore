@@ -1,7 +1,7 @@
-**/*.ipynb_checkpoints
+DATASETS
+*.ipynb_checkpoints
+**/.DS_Store
 **/*.pyc
-*.pyo
 **/__pycache__
-.DS_Store
-**/*.log
-
+**/*.h5
+**/model.png
