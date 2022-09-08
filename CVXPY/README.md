@@ -15,3 +15,4 @@
 - [scipy.optimize vs. CVXPY](https://kevintcarlberg.net/files/opt_class_icme/4_optimization-in-python.pdf)
 - [Differences btw CVXOPT and CVXPY](https://stackoverflow.com/questions/30647436/from-cvx-to-cvxpy-or-cvxopt)
 - [Tutorials](https://www.cvxpy.org/examples/index.html#)
+- [CVXPY paper](https://www.jmlr.org/papers/volume17/15-408/15-408.pdf)
