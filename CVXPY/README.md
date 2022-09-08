@@ -14,3 +14,4 @@
 - [What is the fastest way to minimize a function in python?](https://stackoverflow.com/questions/43648073/what-is-the-fastest-way-to-minimize-a-function-in-python)
 - [scipy.optimize vs. CVXPY](https://kevintcarlberg.net/files/opt_class_icme/4_optimization-in-python.pdf)
 - [Differences btw CVXOPT and CVXPY](https://stackoverflow.com/questions/30647436/from-cvx-to-cvxpy-or-cvxopt)
+- [Tutorials](https://www.cvxpy.org/examples/index.html#)
