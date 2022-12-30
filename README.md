@@ -6,7 +6,7 @@
     - Multi-objectve optimisation
 ***
 
-## Specific topic
+## Special topics
 - Bayesian optmisation
 ***
 
