@@ -9,4 +9,8 @@
 
 ## Limitation of stachstic gradient methods
 - [The "Terpret Problem" and the limits of SGD](https://dselsam.github.io/the-terpret-problem/)
+
+## Available tutorials
+- [Scipy_optimize_wrapper for Keras]()
+- [Example where a SGD would fail to find the optimal solution]()
 ***
