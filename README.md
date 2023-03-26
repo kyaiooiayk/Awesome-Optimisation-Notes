@@ -4,10 +4,7 @@
     - Gradient-free methods
     - Single-objective optimisation
     - Multi-objectve optimisation
-***
-
-## Special topics
-- Bayesian optmisation
+    - Bayesian optmisation
 ***
 
 ## Open source packages
