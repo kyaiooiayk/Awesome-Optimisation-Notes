@@ -10,7 +10,7 @@
 - Bayesian optmisation
 ***
 
-## Packages
+## Open source packages
 - [Facebook nevergrad](https://facebookresearch.github.io/nevergrad/) A gradient-free optimization platform.
 - [HumpDay](https://www.microprediction.com/blog/humpday) A Package to Help You Choose a Python Global Optimizer.
 - [Scikit-Optimise](https://scikit-optimize.github.io/stable/getting_started.html) Scikit-Optimize, or skopt, is a simple and efficient library to minimize (very) expensive and noisy black-box functions. It implements several methods for sequential model-based optimization. skopt aims to be accessible and easy to use in many contexts.The library is built on top of NumPy, SciPy and Scikit-Learn. We do not perform gradient-based optimization.
