@@ -33,3 +33,6 @@
 - [FICO Xpress optimizer](https://www.fico.com/en/products/fico-xpress-optimization) is a commercial optimization solver for linear programming, mixed integer linear programming, convex quadratic programming, convex quadratically constrained quadratic programming, second-order cone programming and their mixed integer counterparts.
 ***
 
+## New entries
+- [Sophia](https://arxiv.org/abs/2305.14342): A Scalable Stochastic Second-order Optimizer for Language Model Pre-training
+***
